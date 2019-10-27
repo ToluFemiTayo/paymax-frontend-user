@@ -67,11 +67,11 @@ export default {
     return {
       images: [
         {
-          src: "/banners/cabletv.jpeg",
+          src: "/banners/cabletv-recharge.jpeg",
           alt: "Banner"
         },
         {
-          src: "/banners/cabletv-recharge.jpeg",
+          src: "/bgslide/cabletv.jpeg",
           alt: "Banner"
         }
       ]
