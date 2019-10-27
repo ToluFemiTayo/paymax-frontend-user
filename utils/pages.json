@@ -1,0 +1,114 @@
+[
+    {
+      "id": 0,
+      "biller_name": "GoTV",
+      "route": "/app/bills/mtndata",
+      "category": "cable",
+      "image": "https://i.ibb.co/y4S5K94/9c85a7e5-0680-4800-b712-7e2058493219.png",
+      "status": 1
+    },
+    {
+      "id": 1,
+      "biller_name": "DsTV",
+      "route": "/app/bills/mtndata",
+      "category": "cable",
+      "image": "https://i.ibb.co/qRd3ghc/362ed1cc-f986-4946-bb48-bfcdc76020cd.png",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "biller_name": "MTN VTU TopUp",
+      "route": "/app/bills/mtndata",
+      "category": "network",
+      "image": "https://i.ibb.co/XJ2hSM9/mtn.png",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "biller_name": "Airtel VTU",
+      "route": "/app/bills/mtndata",
+      "category": "network",
+      "image": "https://i.ibb.co/3cV3gnM/airtel.png",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "biller_name": "IKEJA ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "https://www.payvice.com/assets/img/util_ikedc.png",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "biller_name": "EKO ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "https://www.payvice.com/assets/img/util_ekedc.png",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "biller_name": "IBADAN ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "https://www.payvice.com/assets/img/util_ibedc.png",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "biller_name": "P.H ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "https://www.payvice.com/assets/img/util_phdc.png",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "biller_name": "ENUGU ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "https://www.payvice.com/assets/img/util_eedc.png",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "biller_name": "ABUJA ELECTRICTY",
+      "route": "/app/bills/mtndata",
+      "category": "electricity",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAMAAADV/VW6AAAA+VBMVEX///8DBXUAAHXe3ukbGnIAAFu2ttEAAGcDBXf6+v0AAGEdHXMAAF/Lytuiob0AAGz+/vr9/fX0/Pz8z1BSd6j3UVD9WSYlsce2yCT+xiUmVJP7JCX++PT7eE5PvdLD0U8sLHuCgqpHR4S9vdGrqscAAFXS0uAAAE/r6/JaWo6Ih6qRka0+Pn2Zmbt3d6IVFXFISHYMDW40NIAtLXJCQnY1NXAAAEVmZpBQUIUiInJlZpcjI2x3d5sNDWQZGWZbXIn718j6Z0D6dFex3+fM2HLd5aH745382HZxirGXrcj55uP3Q0T40dD7zLn8PgDX4Y773omAm7z1BweAIiozAAAD30lEQVRoge2XW3ebOBCAJQFGKICSbffe3W4MJhibeJ3Ejb12mu79fuv//zErDbYRAtK4J+f4Yed7SHw0yB8SmhlMCIIgCIIgCIIgCIIgyOE4cZHmR7NPPF+KMD6SPQ4Z55yNoqPYc1fOJGMunR5Fn4Tn5eVsHA9HzjH0pSjTgSgXUiTH0A9E8bVafzz0smPo8zlj9Ipd0eug54rA6Ys8BRPBNN6gJ57dhIuOWDKwSB3i2GOKpK4oUSuos23zSkr/1aTHPrjQ91ZYo7FnM1rkpLxoDXvexW21ecndqDVnqUPR5n7T9+AzwSilzEsbo5dC1woTtlKJE/v2sI6IsZbErSmcy3GPdUewlFTD1mZVTkJGmzDIG6WnbbgoVWHvCr1TP9nO4sLc/gXlWmlQhUHPzXGYza4cUvicWnMYe5feudvdMxN1UXZg8XI2rLknez1zVyd74O6Zn5ApfJCzE5PZ/cM5tZRcT1J/OJ3uL3XgPAzbTVLruReRYE+20vvhD8hX8L8MLB60J55ejf+N3jju73MD9CJtX1/pG9Wz9Gs9mx5UQII1bPJtflNt/265Ws9FRy3o0Kem/uYQO9lIsDokgt2mu4MCq5fj4rymeJR+eMjqEwFbr99DSgmnPzX06gZq/HXQq+fvp8/hsNIlSeI0nsPBvc5NvVlaFk+uh0xlcyfyfF9C0nJ/Y+gbGTx9an0GJURMVMaq1W2Tfx7t9UyKmvC6X/9+z34KK54GE8Hr8inhC0Dvl1lUU7WMp1s9WFWpy0a748V4tRuHJp6hv3msHqqtetZBuSmA82JJeZWG29XbPbhbfy6NzV8/8tdEMIaUf21e7qygCKkyDTWfzVMn2+PUehEbTwVaFtvq1eQkatDT5qveYdXVWD8PHqYk9+DkG0dPXET7adwPa7YtJyJDBmdHhCaj7jLoVNXWbodDuU3+MRxLXrdWlfj5Tk8bbxRwZFV3ikNO7Rin3Q0Xvp659pPKJNzVhmQjVqdDlRP+Jel73YDXyGBFeSvS3e8TePn027/6Cgio5I+FZBY6E5S+gxG0ymjdDnbq89cz13XnHa8CwXKuI6rCZrcrt8ls7ZD4zm1xstxmqHN5NbNi8/sOfeAAXUmSVyGoPS3yXbhJYM826dp8BPl/cmrRcckHXded9oyRx/TZ/TVvvv2iwXcvlO5Li+8JOfvhZZMf1eSfnjX5Wft/ed7kVzX224dNfv9jq//zr4+aaP3HFlr/8pMmf6vJ/3za5NmZGnz+WZN/tf7t5w3e7vSnLyxgty302JnFac8YsX9awUZ3WRAEQRAEQRAEQRAEQRAEQRAEQZAH+A/b4nXyBYU0ZgAAAABJRU5ErkJggg==",
+      "status": 1
+    },
+    {
+        "id": 10,
+        "biller_name": "Airtel Data TopUp",
+        "route": "/app/bills/mtndata",
+        "category": "network",
+        "image": "https://i.ibb.co/3cV3gnM/airtel.png",
+        "status": 1
+    },
+    {
+        "id": 11,
+        "biller_name": "Glo VTU TopUp",
+        "route": "/app/bills/mtndata",
+        "category": "network",
+        "image": "https://i.ibb.co/M1fspgy/glo.jpg",
+        "status": 1
+    },
+    {
+        "id": 12,
+        "biller_name": "Waec Result Pin",
+        "route": "/app/bills/mtndata",
+        "category": "network",
+        "image": "https://i.ibb.co/KmchgY3/WAEC-Result-Checker-PIN.jpg",
+        "status": 1
+    },
+    {
+        "id": 13,
+        "biller_name": "Waec Register Pin",
+        "route": "/app/bills/mtndata",
+        "category": "network",
+        "image": "https://i.ibb.co/jDFswN9/WAEC-Registration-PIN.jpg",
+        "status": 1
+    }
+]
